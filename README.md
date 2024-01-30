@@ -1,3 +1,4 @@
+
 # Instructions
 
 To fulfill the assignment, process an array of clicks and provide a subset adhering to the following criteria:
@@ -18,3 +19,4 @@ To fulfill the assignment, process an array of clicks and provide a subset adher
 - Execute `npm run solution` to obtain the output.
 - The output will be saved in the **resultSet.json** file.
 - Run `npm run test` for executing test cases.
+
